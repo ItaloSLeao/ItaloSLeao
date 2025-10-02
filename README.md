@@ -1,4 +1,4 @@
-## Hallo Leute! Eu sou Ítalo 👋
+## Hallo! Eu sou o Ítalo ☝️🥸
 
 ### 〽️ Estatísticas do GitHub
 
