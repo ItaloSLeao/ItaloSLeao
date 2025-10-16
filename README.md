@@ -1,6 +1,8 @@
 ## Hallo! Eu sou o Ítalo ☝️🥸
 
-[Usuário mais fraco de Java](https://br.pinterest.com/pin/920001030145402331/)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloSLeao&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/ItaloSLeao)
+
+![Usuário mais fraco de Java](https://imgs.search.brave.com/kCoHxG9ycXpVJN6usE7sHeO29gpuODZXMXC53qbmeBo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGVza3RvcGh1dC5j/b20vaW1hZ2VzLzg0/NDBfNDc1M19BcHBs/aWNhdGlvbkZyYW1l/SG9zdF9sR3V5eUN5/MkZBLnBuZw)
 
 ##
 
