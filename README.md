@@ -1,5 +1,7 @@
 ## Hallo! Eu sou o Ítalo ☝️🥸
 
+[Usuário mais fraco de Java](https://br.pinterest.com/pin/920001030145402331/)
+
 ##
 
 ### 🔭 Minhas realizações
