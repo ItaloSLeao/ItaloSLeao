@@ -1,11 +1,7 @@
-## Hallo! Eu sou o Ítalo ☝️🥸
+## Olá! Eu sou o Ítalo ☝️🥸
 
-### 🔭 Minhas realizações
-
-Atualmente estou no 4° Semestre de Ciência da Computação, cursando as disciplinas de Banco de Dados I, Redes de Computadores I, Arquitetura de Computadores I, Engenharia de Software, Programação Declarativa e Teoria da Computação.
-
-##
+Atualmente estou no 5° Semestre de Ciência da Computação. Tenho interesse pela área de Segurança da Informação e Desenvolvimento Back-End.
 
 ### 📫 Como me encontrar
 
-[E-mail](mailto:italoleao.dev@gmail.com)
+[Meu E-mail](mailto:italoleao.dev@gmail.com)
