@@ -1,7 +1,9 @@
-## Olá! Eu sou o Ítalo ☝️🥸
+## Olá! Bem-vindo ao GitHub de Ítalo
 
 Atualmente estou no 5° Semestre de Ciência da Computação. Tenho interesse pela área de Segurança da Informação e Desenvolvimento Back-End.
 
-### 📫 Como me encontrar
+##
 
-[Meu E-mail](mailto:italoleao.dev@gmail.com)
+### 📫 Contato
+
+[E-mail](mailto:italoleao.dev@gmail.com)
