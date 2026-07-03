@@ -9,45 +9,76 @@ Desenvolvi recentemente uma Network Stack e servidor Websocket em Ruby, um robô
     align="left" 
     alt="Java"
     title="Java" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
 />
 <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+    src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
 />
 <img 
     align="left" 
     alt="Spring Boot" 
     title="Spring Boot"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+    src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
 />
 </br>
 </br>
 
 ## 📫 Contato
 
-[italoleao.dev@gmail.com](mailto:italoleao.dev@gmail.com)
+<a href="https://www.linkedin.com/in/italo-leao/" title="Gmail">
+    <img 
+        align="left"
+        href=""
+        alt="Linkedin" 
+        title="LinkedIn"
+        height="50px"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"
+    />
+<a href="mailto:italoleao.dev@gmail.com" title="Gmail">
+    <img 
+        align="left"
+        alt="Gmail" 
+        title="Gmail"
+        height="50px"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"
+    />
+</a>
+</br>
+</br>
