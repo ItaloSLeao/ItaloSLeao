@@ -1,6 +1,6 @@
 ## Olá! Bem-vindo ao GitHub de Ítalo
 
-Estou no 5° Semestre de Ciência da Computação. Tenho interesse pela área de Redes e Segurança, Back-End e IA/ML.
+Estou no VI Semestre de Ciência da Computação. Tenho interesse pela área de Redes e Segurança, Back-End e IA/ML.
 
 Desenvolvi recentemente uma Network Stack e servidor Websocket em Ruby, um robô do Rocode com Knn Kd-Tree em Java e um Sistema de Gerenciamento Acadêmico em Elixir.
 
