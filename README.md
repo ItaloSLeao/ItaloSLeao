@@ -1,7 +1,7 @@
 
 # Hey, I'm Ítalo 😶‍🌫️
 
-<img src="./assets/sentry.gif" alt="Sentry - Dark Avengers" width="498">
+<img src="./sentry.gif" alt="Sentry - Dark Avengers" width="498">
 
 Computer Science student at **UESB**.
 
